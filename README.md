@@ -66,3 +66,21 @@ O Aplicativo foi o canal com maior faturamento, enquanto o Balcão liderou em vo
 O WhatsApp concentrou o maior número de cancelamentos, indicando oportunidade de melhoria no processo de confirmação dos pedidos.
 
 O período da noite concentrou o maior faturamento, sendo o principal horário para reforço de equipe, estoque e ações promocionais.
+
+## Imagens do dashboard
+
+### Resumo Executivo
+
+![Resumo Executivo](imagens/resumo-executivo.png)
+
+### Visão Geral Comercial
+
+![Visão Geral Comercial](imagens/visao-geral-comercial.png)
+
+### Produtos e Margem
+
+![Produtos e Margem](imagens/produtos-e-margem.png)
+
+### Comportamento de Vendas
+
+![Comportamento de Vendas](imagens/comportamento-de-vendas.png)
