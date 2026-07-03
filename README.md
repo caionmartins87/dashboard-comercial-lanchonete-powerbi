@@ -67,6 +67,12 @@ O WhatsApp concentrou o maior número de cancelamentos, indicando oportunidade d
 
 O período da noite concentrou o maior faturamento, sendo o principal horário para reforço de equipe, estoque e ações promocionais.
 
+## Como visualizar o projeto
+
+- Baixe o arquivo `.pbix` para abrir o dashboard no Power BI Desktop.
+- Consulte o arquivo `.pdf` para visualizar uma versão estática do painel.
+- A base fictícia utilizada no projeto está disponível no arquivo Excel.
+
 ## Imagens do dashboard
 
 ### Resumo Executivo
